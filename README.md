@@ -10,6 +10,7 @@
 3. Jack Miller: [@Jackhmiller31](https://github.com/jackhmiller31)
 4. Hayden Martin: [@haydentMartin](https://github.com/haydentMartin)
 5. Timofei Begun: [@Conscientisehandball](https://github.com/conscientisehandball)
+6. Andrew Sharpe: [@andrewsharpeuga](heeps://github.com/andrewasharpeuga)
 
 # Description of Dataset:
 
