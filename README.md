@@ -45,7 +45,7 @@ Which district had the highest dropout rate? What is the highest race per distri
 Graph Description: This graph showcases the highest dropout rate across the distrcits. 
 
 
-<img width="1226" alt="Screenshot 2024-04-24 at 10 30 33 AM" src="https://github.com/dbaptiste08/GroupProject2/assets/149968815/ce429f3f-8f9d-46cd-9c75-f8eabbc15608">
+<img width="1228" alt="Screenshot 2024-04-24 at 11 17 30 AM" src="https://github.com/dbaptiste08/GroupProject2/assets/149968815/26c3b09a-6d98-433a-bb0d-717f6151b5ed">
 
 Graph Description: This graph showcases the racial background of the drop outs in Iowa's districts.
 
