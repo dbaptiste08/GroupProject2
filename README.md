@@ -56,7 +56,7 @@ This question focuses on deriving information from the specific districts and th
 
 
 # Manipulations Applied to Dataset for Analysis:
-The data set consists of data on high school Iowa dropouts and median household income by counties in Iowa. The only manipulation done to this dataset was adding all the separate races, African American, Native American, etc., into one pivot to display the results in a clear, visually appealing manner. We also had to add a calculated field of drop out rate by making a function by dividing overall dropouts over overall enrollment.
+The data set consists of data on high school Iowa dropouts and median household income by counties in Iowa. These originally two separate datasets were combined for this project. An additional manipulation done to this dataset was adding all the separate races, African American, Native American, etc., into one pivot to display the results in a clear, visually appealing manner. We also had to add a calculated field of drop out rate by making a function by dividing overall dropouts over overall enrollment.
 
 
 
